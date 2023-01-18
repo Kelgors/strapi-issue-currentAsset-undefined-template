@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_generic_documents",
+  "info": {
+    "displayName": "document"
+  },
+  "options": {},
+  "attributes": {
+    "document": {
+      "allowedTypes": [
+        "files"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}
